@@ -1,5 +1,3 @@
- :octocat: Pedro-Eduardo/README.md
- 
  # Seja Bem-Vindo
  
  ### Habilidades
@@ -13,7 +11,7 @@
  + JS
  + SQL
  + MySQL
- + Versionamento
+ + Versionamento :octocat: 
  + Linux
  + Suporte
 
