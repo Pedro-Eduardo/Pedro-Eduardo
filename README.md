@@ -29,5 +29,5 @@
     <a href="" target="_blank"><img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white"></a>
 </div>
 
-![Snake animation](https://github.com/Pedro-Eduardo/Pedro-Eduardo/blob/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/pedro-eduardo/pedro-eduardo/blob/output/github-contribution-grid-snake.svg)
 
