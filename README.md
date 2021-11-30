@@ -28,6 +28,6 @@
     <a href="" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     <a href="" target="_blank"><img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white"></a>
 </div>
-<div align="center">
-![Snake animation](https://github.com/Pedro-Eduardo/Pedro-Eduardo/blob/output/github-contribution-grid-snake.svg)
-</div>
+
+![Snake animation](https://github.com/Pedro-Eduardo/Pedro-Eduardo/blob/main/.github/workflows/main.yml)
+
