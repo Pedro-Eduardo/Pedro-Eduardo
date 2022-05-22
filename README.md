@@ -49,7 +49,9 @@
     <a href="https://www.linkedin.com/in/pedro-eduardo-silva-b14aa289/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     <a href="https://www.youtube.com/channel/UCPj_i-Ux6HDEfvgScNoSt2Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
     <a href="https://www.instagram.com/pedr0.eduard0/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-    <a href="https://medium.com/@pedroeduardosilva" target="_blank"><img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white"></a>
+    <a href="https://medium.com/@pedroeduardosilva" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
+  
+  
 </div>
 
 ![Snake animation](https://github.com/pedro-eduardo/pedro-eduardo/blob/output/github-contribution-grid-snake.svg)
